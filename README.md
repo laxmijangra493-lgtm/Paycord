@@ -1,7 +1,7 @@
 <img width="2344" height="1574" alt="image" src="https://github.com/user-attachments/assets/b08ec7f1-af89-49e3-b0d9-5a113067e2d7" />
 
 
-# Procord
+# Procord V1
 
 PulseMRR is a Next.js 16 App Router application for recovering failed Stripe subscription payments through Discord or Telegram. Secrets are encrypted before persistence, payment-method updates are handled by Stripe Billing Portal, and Stripe webhook processing is idempotent.
 
