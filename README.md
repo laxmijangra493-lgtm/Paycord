@@ -1,3 +1,6 @@
+<img width="2344" height="1574" alt="image" src="https://github.com/user-attachments/assets/b08ec7f1-af89-49e3-b0d9-5a113067e2d7" />
+
+
 # Procord
 
 PulseMRR is a Next.js 16 App Router application for recovering failed Stripe subscription payments through Discord or Telegram. Secrets are encrypted before persistence, payment-method updates are handled by Stripe Billing Portal, and Stripe webhook processing is idempotent.
@@ -24,3 +27,6 @@ For a PKCE-based SSR sign-in, configure the Supabase Magic Link email template t
 ```
 
 Also add your production callback URL, such as `https://your-domain.com/auth/callback`, to the Supabase Auth redirect allow list. The callback accepts both PKCE `code` links and `token_hash` links.
+
+<img width="736" height="736" alt="2026-10-08_17-11-54" src="https://github.com/user-attachments/assets/136b4a5b-8917-460d-ac7f-5ba23d579acd" />
+
